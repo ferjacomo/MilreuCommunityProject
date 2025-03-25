@@ -13,22 +13,23 @@ This project explores participatory approaches to archaeological research, inter
 - Generate open-access data, reports, and learning tools
 
 **📁 What's in this repository?**
-🗂️ docs/: Reports, surveys, methodology plans, academic outputs
-📊 data/: Public datasets (de-identified) from community surveys and evaluations
-📸 media/: Communication assets, visual documentation of events
-📜 literature/: Key references and theoretical background
-💡 ideas/: Proposals, OKRs, community-suggested initiatives
-🔧 tools/: Forms, templates, and digital resources used in project execution
+- 🗂️ docs/: Reports, surveys, methodology plans, academic outputs
+- 📊 data/: Public datasets (de-identified) from community surveys and evaluations
+- 📸 media/: Communication assets, visual documentation of events
+- 📜 literature/: Key references and theoretical background
+- 💡 ideas/: Proposals, OKRs, community-suggested initiatives
+- 🔧 tools/: Forms, templates, and digital resources used in project execution
 
 **📖 Licensing & Open Science**
+
 This project follows Open Science and FAIR principles. All contents are shared under the CC-BY 4.0 license unless stated otherwise.
 
 We welcome community contributions, feedback, and collaboration!
 
 **🤝 How to Contribute**
-Submit issues with feedback or ideas
-Fork and create pull requests for updates or corrections
-Contact us for research collaborations or data requests
+- Submit issues with feedback or ideas
+- Fork and create pull requests for updates or corrections
+- Contact us for research collaborations or data requests
 
 **📫 Contact**
 Project Lead: Fernando Jacomo
