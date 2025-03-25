@@ -32,6 +32,6 @@ We welcome community contributions, feedback, and collaboration!
 - Contact us for research collaborations or data requests
 
 **📫 Contact**
-Project Lead: Fernando Jacomo
-Institution: University of Algarve
-Partner Institutions: Património Cultural I.P., Faro Museum, CCDR Algarve
+- Project Lead: Fernando Jacomo
+- Institution: University of Algarve
+- Partner Institutions: Património Cultural I.P., Faro Museum, CCDR Algarve
